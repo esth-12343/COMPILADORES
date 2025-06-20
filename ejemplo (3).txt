@@ -1,0 +1,7 @@
+int x = 10;
+float y;
+
+if (x > 5) {
+    System.out.println("Mayor a 5");
+    return;
+}
