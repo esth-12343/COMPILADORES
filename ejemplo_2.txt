@@ -1,0 +1,31 @@
+int lafuncion Genfar (int paso)
+{
+  retorno paso + 5;
+}
+
+int lafuncion Artesco ()
+{
+  int x;
+  int a = 3 * 2;
+
+  x = Genfar(15) + a;
+
+  pi (x > 18)
+  {
+    x = x + 10;
+  }
+  pilot
+  {
+    x = a;
+  }
+
+  imprimir(x);
+}
+
+int lafuncion perimetro()
+{
+  int c;
+   c = 5;
+
+  imprimir(c);
+}

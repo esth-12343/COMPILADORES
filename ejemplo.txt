@@ -1,0 +1,25 @@
+int lafuncion f1 (int p)
+{
+  retorno p + 10;
+}
+
+int lafuncion principal ()
+{
+  int x;
+  int y;
+
+  x = f1(5);
+  y = x + y;
+
+  imprimir (x);
+  imprimir (y);
+}
+int lafuncion secundaria()
+{
+  int a;
+  int b;
+  int c;
+
+  a = b * c;
+  imprimir (a);
+}
